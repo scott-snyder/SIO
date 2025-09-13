@@ -48,6 +48,13 @@ INCLUDE( SIOBuild )
 # sio library
 ADD_SUBDIRECTORY( source )
 
+# By default, the generated Target file will set up the include paths for
+# our libraries using INTERFACE_INCLUDE_DIRECTORIES, meaning that they
+# will be included using -isystem rather than -I.  However, this can hide
+# warnings.  Adjust the behavior to use -I instead.
+set_target_properties( sio    PROPERTIES EXPORT_NO_SYSTEM ON )
+
+
 ### DOCUMENTATION ###########################################################
 IF( INSTALL_DOC )
     ADD_SUBDIRECTORY( ./doc )
