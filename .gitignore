@@ -6,3 +6,4 @@
 /SIOConfigVersion.cmake
 /doc/Doxygen
 /callgrind.out.*
+*~
