@@ -1,12 +1,12 @@
 {
   "version": 5,
-  "prev": "d8bca32acc0ebd27da04872fd25913034d349f8f",
+  "prev": "19d3a9c7cbbc476196bb2fbb4e3ece21a40b0d94",
   "head": "0f3a9928d745ee19041c4303d07c5738afe53350",
   "applied": [
     "cxx23",
     "gitignore",
     "nosystem",
-    "gxx26"
+    "cxx26"
   ],
   "unapplied": [],
   "hidden": [],
@@ -14,11 +14,11 @@
     "cxx23": {
       "oid": "9b59f24a3b58b71d5c8f53d3accbc333b421c090"
     },
+    "cxx26": {
+      "oid": "0f3a9928d745ee19041c4303d07c5738afe53350"
+    },
     "gitignore": {
       "oid": "a90eedf4f9651bfaed11963437c678adc3eb47a3"
-    },
-    "gxx26": {
-      "oid": "0f3a9928d745ee19041c4303d07c5738afe53350"
     },
     "nosystem": {
       "oid": "f525341730212782c5212b2bffc322ade9db0f15"
