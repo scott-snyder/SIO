@@ -1,8 +1,0 @@
-Bottom: befc5c7ecd434ccb34e0fb37bd2ea8b730512cda
-Top:    befc5c7ecd434ccb34e0fb37bd2ea8b730512cda
-Author: sss <sss@karma>
-Date:   2026-02-05 21:01:41 -0500
-
-Add 23 as a valid C++ standard.
-
-Allow building with C++23.
