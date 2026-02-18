@@ -1,6 +1,6 @@
 Bottom: aa3121db4b40216f84f7355fa486eb3de11f2853
 Top:    5fa0db1ab4ea4c65a022b64babd21fce2aa1c6c5
 Author: sss <sss@karma>
-Date:   2026-02-18 10:23:05 -0500
+Date:   2026-02-18 10:23:11 -0500
 
-Allow C++26.
+Allow compiling with C++26.
