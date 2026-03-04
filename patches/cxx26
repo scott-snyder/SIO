@@ -1,6 +1,0 @@
-Bottom: 5fa0db1ab4ea4c65a022b64babd21fce2aa1c6c5
-Top:    5fa0db1ab4ea4c65a022b64babd21fce2aa1c6c5
-Author: sss <sss@karma>
-Date:   2026-03-04 12:33:14 -0500
-
-Allow compiling with C++26.
